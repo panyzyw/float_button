@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 不显示悬浮球的界面 -->
+    <string-array name="invisible_package">
+        <!-- 锁屏表情 -->
+        <item>"com.yongyida.robot.lockscreen"</item>
+        <!-- Launcher -->
+        <!--<item>"com.yongyida.robot.launcher2.activity.MainActivity"</item>-->
+        <!-- 视频通话 -->
+        <item>"com.yongyida.robot.video.hxvideo.VideoCallActivity"</item>
+        <!-- 视频播放器 -->
+        <item>"com.yongyida.robot.videoplayer.acitvity.VideoNetPlayerActivity"</item>
+        <item>"com.yongyida.robot.videoplayer.acitvity.VideoPlayerActivity"</item>
+        <!-- 系统视频播放器 -->
+        <!--<item>"com.android.gallery3d.app.MovieActivity"</item>-->
+        <!-- 工厂测试软件 -->
+        <item>"com.mediatek.factorymode"</item>
+        <!-- Y50B Launcher -->
+        <!--<item>"com.yongyida.robot.activity.launcher.MainActivity"</item>-->
+        <!-- 视频会议 -->
+        <item>"com.yongyida.robot.video"</item>
+        <!-- 电话通话中的界面 -->
+        <item>"com.android.incallui.InCallActivity"</item>
+        <!-- wifi设置的界面 -->
+        <item>"com.android.settings.Settings$WifiSettingsActivity"</item>
+        <item>"com.android.settings.Settings.WifiSettingsActivity"</item>
+        <item>"com.yongyida.robot.player"</item>
+		<item>"com.yongyida.zkdetection"</item>
+		<item>"com.yongyida.healthmanage"</item>
+    </string-array>
+
+</resources>
